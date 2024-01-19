@@ -33,4 +33,4 @@ As a continuous learner, I'm navigating the path from data analysis to developme
 I'm open to collaboration, mentorship, or just a friendly chat! If you share an interest in data, development, or anything tech-related, let's connect here!
 Thanks for joining me on this journey! Happy coding! 
 
-#🦈
+# 🦈

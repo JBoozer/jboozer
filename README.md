@@ -11,7 +11,17 @@ Passionate data analyst on a journey to become a skilled developer, honing my sk
 ### Data & Machine Learning
 - PyTorch 🤖
 - IBM Watson 🧠
-- Datadog 📊
+- Datadog 🐕‍🦺
+
+### Prompt Engineering
+- ChatGPT 💬
+- Claude 🖮
+- Google Bard 💻
+- Jasper 🛩️
+- MidJourney 🎨
+- AgentGPT 🧑‍💻
+- AI Agent 🕵️
+- Zapier 🥷
 
 ### Game Development
 - Unreal Engine 🎮
